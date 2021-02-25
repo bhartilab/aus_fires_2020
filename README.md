@@ -1,7 +1,7 @@
 # aus_fires_2020
 code to accompany "Quantifying the impacts of Australian bushfires on native forests and grey-headed flying foxes" by Baranowski, Faust, Eby and Bharti
 
-Data for this manuscript primarily from open source data:
+Data for this manuscript come from open source data:
 1. Fire occurrence data (VIIRS Near Real-Time FIRMS Data): 
     https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms
         2021-09-01 to 2020-01-06 downloaded on 06 January 2020
