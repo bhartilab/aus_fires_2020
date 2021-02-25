@@ -9,7 +9,9 @@ Data for this manuscript come from open source data:
         2012-09-01 to 2013-03-01 downloaded 15 January 2020
         2020-01-16 to 2020-03-01 downloaded 06 March 2020
 
-2. Fire intensity data from New South Wales for 2019-2020 fires:
+2. Fire intensity data from New South Wales for 2019-2020 fires (no version associated with files):
+    https://data.nsw.gov.au/data/dataset/fire-extent-and-severity-mapping-fesm 
+    downloaded on 14 December 2020
     
 3. Global Forest Cover Change version 1.6:
       https://earthenginepartners.appspot.com/science-2013-global-forest/download_v1.6.html
