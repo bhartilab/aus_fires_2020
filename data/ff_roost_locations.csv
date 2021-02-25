@@ -1,0 +1,706 @@
+"","camp.name","lat","long","sample.dates"
+"1","Aberdeen",-32.16755,150.88581,2
+"2","Abington",-30.285685155,151.202346674,6
+"3","Albany Creek, Kingfisher Street",-27.347189,152.959594,14
+"4","Albury Botanical Gardens",-36.081,146.9091,5
+"5","Albury, Leaney's Bend",-36.085,146.8975,16
+"6","Albury, Leaney's Bend",-36.081,146.9091,1
+"7","Aldavilla",-31.059087598,152.775768449,3
+"8","Alexandra Hills, Lawn Terrace",-27.51649,153.20968,36
+"9","Allora (Dalrymple Creek)",-28.028018,151.983746,30
+"10","Allora (Dalrymple Park Reserve)",-28.031389,151.984722,22
+"11","Allyn River, Whiterock",-32.1245,151.4664,1
+"12","Alstonville, Davis Scrub",-28.865584526,153.405064901,4
+"13","Alstonville, Lumley Park",-28.835839547,153.438202598,24
+"14","Alstonville, Maguires Creek",-28.82649646,153.446814185,3
+"15","Amamoor State Forest",-26.36065,152.61604,5
+"16","Andrea Ahern Bushland Park",-26.783841,153.127408,3
+"17","Anembo Lakes, Torquay",-25.287433,152.883351,9
+"18","Angourie, West Camp",-29.449209348,153.350646636,17
+"19","Anna Bay",-32.754929635,152.087272055,9
+"20","Arakoon",-30.89993828,153.065804805,18
+"21","Armidale",-30.5266,151.6544,3
+"22","Arundal, Biggera Creek",-27.947877,153.380878,22
+"23","Ashby",-29.443675996,153.195299288,3
+"24","Atkinsons Dam",-27.42135,152.456091,4
+"25","Aucklalnd Inlet",-23.835839,151.251364,2
+"26","Avalon",-33.625622,151.324958,25
+"27","Avoca",-33.4524,151.4333,15
+"28","Avoca, McCoys Creek",-24.88741,152.22936,32
+"29","Baffle Estuary, Baffle Creek",-24.5105,152.0364,2
+"30","Bakers Creek Island",-21.21889,149.15194,1
+"31","Balgowlah",-33.789,151.26,24
+"32","Balgownie",-34.385479064,150.867692002,7
+"33","Ballina, Little Fishery Creek",-28.858647927,153.566662904,24
+"34","Bangalow, Byron Creek",-28.6847,153.5278,1
+"35","Bangalow, Paddys Creek",-28.6848,153.5195,19
+"36","Banora Point East, Elsie Street",-28.2119,153.5495,14
+"37","Banora Point, Barneys Point Rd",-28.2216,153.5544,7
+"38","Banora Point, Darlington Drive",-28.2113,153.5439,1
+"39","Banora Point, Toolona Ave",-28.2181,153.5442,7
+"40","Bargara, Fairway Drive",-24.823661,152.462227,27
+"41","Bargara, Larder Street",-24.83164,152.46889,49
+"42","Bateman's Bay, Catalina",-35.71866,150.18434,23
+"43","Bateman's Bay, Water Gardens",-35.71223,150.17905,22
+"44","Bathurst, Machattie Park",-33.4189,149.5775,4
+"45","Beaudesert, Lions Bicentennial Park",-27.9959,152.9982,5
+"46","Beechmont, Gwingana Court",-28.169594,153.194403,2
+"47","Beenaam Valley, Beenham Valley Road",-26.190785,152.809487,13
+"48","Beenleigh, Logan St",-27.708984,153.196341,36
+"49","Bega, Glebe Park",-36.681880015,149.84887024,23
+"50","Bellara, Warrigal Street",-27.057756,153.142425,4
+"51","Bellbrook",-30.820484993,152.509694518,1
+"52","Bellingen Island",-30.448,152.8961,26
+"53","Bellingen, Community garden",-30.4484,152.9038,17
+"54","Belmont",-33.041360936,151.670750179,18
+"55","Bendemeer",-30.892661305,151.157631439,7
+"56","Bentley, Manifold Rd",-28.765,153.0757,2
+"57","Bermagui",-36.467630193,150.015930346,3
+"58","Berry",-34.772,150.7054,7
+"59","Biloela",-24.407953,150.513406,2
+"60","Birdwood",-31.328309654,152.29891703,20
+"61","Birkdale, Birkdale Tip",-27.5112,153.2253,4
+"62","Birkdale, Collingwood Rd",-27.495883,153.213807,3
+"63","Birkdale, Tarradarrapin",-27.5026,153.2263,51
+"64","Black Current Island",-20.07966,148.49279,1
+"65","Blackalls Park (91 Fennell Crescent)",-33.007863,151.58883,24
+"66","Blair athol, Inverall",-29.757446,151.0402,9
+"67","Bloomfield",-15.935397,145.341694,1
+"68","Blue Knob (Lillian Rock Rd)",-28.5369,153.1797,2
+"69","Boambee, Englands Rd",-30.324182262,153.071823158,4
+"70","Bob's Farm",-32.76234,152.05825,7
+"71","Bogangar, Kauri Ave",-28.3317,153.5626,13
+"72","Bomaderry Creek",-34.85578772,150.593075679,22
+"73","Bongaree, Shirley Creek",-27.07898,153.15917,6
+"74","Bonville Creek",-30.383741211,153.071866677,2
+"75","Booderee Botanic Gardens",-35.1213,150.6813,3
+"76","Boonah - Mount French",-28.0009,152.6085,26
+"77","Boonah, Bicentenial Park",-27.99191,152.679877,40
+"78","Boonaroo, Boonaroo Point",-25.674901,152.906694,6
+"79","Booyong",-28.74412817,153.448450073,7
+"80","Boronia Heights, Warana Ct",-27.696823,153.026831,5
+"81","Bowraville",-30.648173558,152.858556566,12
+"82","Boyne Island",-23.943197,151.354066,11
+"83","Braidwood",-35.443124518,149.8134742,19
+"84","Broadbeach, Cascade Gardens",-28.0222,153.4277,88
+"85","Broadbeach, Jupiters Casino",-28.030678,153.428033,18
+"86","Broadwater",-29.0141,153.4301,23
+"87","Brombin",-31.448572163,152.652341344,23
+"88","Brookstead, 1589 Pampas Horrane Rd",-27.69509,151.30853,7
+"89","Bruxner Park",-30.243295169,153.085226007,2
+"90","Budawang National Park, Currockbilly",-35.421153101,150.027427114,1
+"91","Bulahdelah, Boolambayte Creek",-32.341946507,152.247645857,5
+"92","Bulli",-34.309226699,150.907244221,7
+"93","Bundaberg, Baldwin Swamp Environment Park",-24.86732,152.370743,26
+"94","Bundaberg, Harriet Island/Don Tallon Bridge",-24.8615,152.3387,57
+"95","Bundall, Gold Coast Turf Club",-27.999972,153.401971,17
+"96","Bundamba, Paice St",-27.612423,152.81273,43
+"97","Bundgeam, Moore Park",-28.438289149,152.880053675,26
+"98","Bundjalung National Park, Olive Gap",-29.15403077,153.380486426,7
+"99","Burdekin-Bowen, River Junction",-20.396716,147.35093,1
+"100","Burleigh Knoll, Burleigh Street, Burleigh Waters",-28.081933,153.439014,21
+"101","Burleigh, Marymount College",-28.0946,153.4292,62
+"102","Burpengary",-27.152663,152.971398,46
+"103","Burpengary Equestrian",-27.16051,152.955304,52
+"104","Burringbar",-28.443059,153.4586,15
+"105","Burrum River (lower), Big Shaggy Island",-25.1733,152.5734,4
+"106","Burrum River (upper), Junction Cherwell River",-25.327328,152.5784,72
+"107","Byron Bay",-28.6434,153.6084,14
+"108","Byron Bay, Coopers Shoot",-28.70445035,153.576794516,2
+"109","Byron bay, Middleton st",-28.6446,153.6152,10
+"110","Caboolture, Wararba Creek",-27.081615,152.926761,73
+"111","Cabramatta",-33.905698919,150.940725191,26
+"112","Calamvale, Earnshaw St.",-27.621157,153.036482,47
+"113","Calamvale, Golden Avenue",-27.62738,153.056525,26
+"114","Calen, Blackrock Creek",-20.82424,148.78757,1
+"115","Callide Creek",-24.364233,150.60835,2
+"116","Calliope",-24.00123,151.19309,15
+"117","Camden, Brownlow Hill",-34.026754688,150.648129312,20
+"118","Camira, Pilney Reserve (Barbara Street)",-27.6315,152.9206,74
+"119","Campbelltown",-34.065828,150.8088,19
+"120","Candelo",-36.758384581,149.702774631,4
+"121","Cannonvale",-20.27926,148.67972,2
+"122","Canungra Creek Park",-28.016577,153.160156,9
+"123","Canungra, Beachmont Rd",-28.0398,153.1824,102
+"124","Cape Hawke",-32.200560661,152.539146034,23
+"125","Carrara, Edelsten Court",-28.017876,153.36239,47
+"126","Carrara, Gooding Drive",-28.03315,153.391551,48
+"127","Carrara, Nerang Broadbeach Road",-28.006584,153.359613,14
+"128","Carrington Mangroves",-32.908246877,151.762530568,24
+"129","Casino",-28.867034,153.04987,26
+"130","Cedar Grove, Brushwood Cres.",-27.8558,152.98,70
+"131","Cedar Vale, Banksia Court",-27.874637,153.012546,41
+"132","Centennial Pk",-33.900028,151.236342,26
+"133","Charleville (Warrego)",-26.35975,146.27635,3
+"134","Charters Towers",-20.072564,146.2609,2
+"135","Chermside West, Downfall Creek",-27.388688,153.007091,4
+"136","Cherry Gully, Warwick",-28.399167,152.097778,12
+"137","Chiba Reserve, Burrendong Rd, Coombabah",-27.893616,153.384217,4
+"138","Childers (Mango Hill Road)",-25.246917,152.316675,4
+"139","Chinchilla",-26.80121,150.58126,12
+"140","Chinchilla, Charleys Creek Bridge",-26.736169,150.622681,1
+"141","Chinchilla, Dorney Street",-26.75057,150.62288,8
+"142","Chinderah",-28.252604832,153.558034095,18
+"143","Chinnock",-36.69233021,149.956119659,3
+"144","Chuwar, Brodzig Road",-27.567961,152.791192,20
+"145","Clarence Town",-32.5822,151.7845,19
+"146","Clermont, Capella Street",-22.818229,147.64139,16
+"147","Cleveland, Black Swamp",-27.5275,153.25804,57
+"148","Cleveland, Kooringa Avenue",-27.546023,153.269844,7
+"149","Clunes",-28.7343,153.4175,5
+"150","Clybucca",-30.935927372,152.949498439,2
+"151","Clyde",-33.838146303,151.0183864,26
+"152","Coalstoun Lakes Recreation Reserve",-25.6147,151.8965,89
+"153","Coffs Harbour, Coffs Creek",-30.288065001,153.102784164,10
+"154","Collinsville",-20.5483,147.848,2
+"155","Collinsville - Glencore Mine",-20.521967,147.744212,1
+"156","Conondale, Herron Rd",-26.727645,152.719883,22
+"157","Constant Creek",-21.0083,149.0097,1
+"158","Coochiemudlo Island",-27.572437,153.331214,62
+"159","Coolamon, Currumbin Valley (Nicolls Scrub)",-28.1865,153.4223,4
+"160","Coolum, Cassia Wildlife Corridor & Elizabeth St Drain",-26.5327996,153.085496,26
+"161","Coolum, Hyatt",-26.5485,153.08655,11
+"162","Coombabah, Coombabah Creek",-27.8883,153.3812,35
+"163","Coopers Plains, Beryl Roberts Park, Barham St",-27.567531,153.043448,3
+"164","Cooran - Yellow Belly Reserve",-26.3375,152.8264,45
+"165","Copmanhurst",-29.5855,152.7753,8
+"166","Coraki",-28.9771305,153.292208889,11
+"167","Coramba",-30.198827138,153.019080296,2
+"168","Cowra",-33.8408,148.6806,6
+"169","Craignish Heights",-25.2875,152.7471,15
+"170","Crescent Head",-31.165187354,152.950730825,2
+"171","Crows Nest",-27.45,152.0166,1
+"172","Cunungra Creek Park",-28.016577,153.160156,1
+"173","Currumbin Creek",-28.14534,153.46721,84
+"174","Dalby, Myall Creek",-27.18833,151.2626,28
+"175","Dalby, Wood Street",-27.18993,151.2598,4
+"176","Dalwood 1",-28.883279,153.401652,6
+"177","Dalwood 2",-28.879168,153.391202,5
+"178","Dan Gleeson Memorial Gardens, Townsville",-19.306048,146.733228,1
+"179","Dayboro, Railway Street",-27.197112,152.825392,82
+"180","Dayboro, Strong Road",-27.2069,152.8316,90
+"181","Daydream Island",-20.25547,148.81395,4
+"182","Deagon",-27.33338056,153.0535639,8
+"183","Dirranbandi",-28.563019,148.237899,4
+"184","Dorroughby",-28.6771,153.3555,14
+"185","Duaringa",-23.7209,149.6709,8
+"186","Dubbo, Macquarie River",-32.27973511,148.598090265,15
+"187","Dubbo, Victoria Park",-32.2475,148.6077,7
+"188","Dulguigan",-28.290549912,153.392975712,2
+"189","Dunbogan",-31.651391775,152.821799543,11
+"190","Dundowran Beach, Ocean Park Drive, Petersons Park",-25.270079,152.745372,32
+"191","Dundowran, Jimilee Street",-25.274922,152.750073,44
+"192","Dundowran, O'Reagans Creek CP",-25.2682,152.7272,74
+"193","Dungog, Main Creek",-32.276927044,151.798946989,25
+"194","Dungog, Williams River",-32.3948,151.7619,1
+"195","Dunoon (James Street)",-28.6889,153.3107,7
+"196","Dysart",-22.585,148.349,9
+"197","Eagleby, Dreyer Road (Carbrook Golf Course)",-27.69071,153.244085,63
+"198","East Ballina",-28.860119455,153.579333157,3
+"199","East Brisbane, Norman Creek (Heath Park/Giffin Par",-27.484127,153.051947,89
+"200","East Cessnock",-32.8272,151.3719,25
+"201","East Innisfail",-17.5307156,146.0402588,4
+"202","East Lismore, Wilson Park Nature Reserve",-28.832494967,153.289415626,7
+"203","Eden Lassie Creek",-20.17167,148.40833,3
+"204","Eerwah Vale",-26.47214,152.91449,16
+"205","Eidsvold",-25.373646,151.124555,1
+"206","Eimeo Mangroves",-21.0394,149.175,4
+"207","Elizabeth Beach",-32.3304,152.5334,2
+"208","Ellen Grove, Waterford Rd",-27.614246,152.947948,42
+"209","Elliott Heads, Bathurst Street",-24.917306,152.491142,1
+"210","Emerald Botanic Gardens Rainforest",-23.53685,148.16648,10
+"211","Emu Park (Bell Park)",-23.25383,150.82504,1
+"212","Emu Plains",-33.740756481,150.680251477,21
+"213","Emu Plains (2007)",-33.727588989,150.651934832,6
+"214","Esk",-27.2349,152.4233,67
+"215","Eungella State School",-21.1358,148.492,16
+"216","Eureka Public School",-28.681493,153.438696,2
+"217","Evans Head",-29.1119,153.4327,26
+"218","Ewingsdale",-28.640646874,153.569886802,3
+"219","Ewingsdale, Simpson creek",-28.6434,153.5581,3
+"220","Federal, Coachwood camp",-28.6518,153.4518,2
+"221","Ferny Hills, Kylie Ave",-27.4055,152.945647,39
+"222","Finch Hatton Gorge",-21.0808,148.6347,12
+"223","Flinders Peak, Peak Crossing",-27.7928,152.785,2
+"224","Forster, cocos Cresent",-32.2002,152.534,1
+"225","Fraser Island, Cornwell's Break",-25.4019,153.0471,20
+"226","Fursden Creek",-21.1344,149.152,4
+"227","Gaeta Road, Gaeta",-24.903869,151.592981,5
+"228","Gatton, Amaroo Retirement Village, Tenthill Creek",-27.564791,152.272578,71
+"229","Gayndah Township",-25.6239,151.6109,68
+"230","Gayndah, Barambah Ck",-25.5859,151.6622,10
+"231","Gayndah, Brambah Ck",-25.5859,151.6622,72
+"232","Gladesville",-33.836414,151.133975,26
+"233","Gladstone West, Blain Drive",-23.851422,151.233179,2
+"234","Glen Aplin Caravan Park",-28.722582,151.88899,6
+"235","Glen Willliam",-32.520974501,151.808615341,25
+"236","Glenden",-21.356515,148.110274,1
+"237","Glenreagh",-30.0535,152.9805,23
+"238","Glenrock",-32.959448042,151.727873181,5
+"239","Glenugie",-29.762352083,153.020217601,1
+"240","Glenugie, eight mile lane",-29.79,153.011,1
+"241","Glenwood Varley Road",-25.9274,152.6259,70
+"242","Goldsborough",-17.15448,145.73802,1
+"243","Gooburrum, Billabong Drive",-24.81948,152.351462,3
+"244","Goodna, Woogaroo Creek",-27.6049,152.9028,57
+"245","Goomboorian, Anderleigh Rd Ginger Creek",-26.04852,152.77799,54
+"246","Goondiwindi (Macintyre River) Cairns St.",-28.537349,150.287601,17
+"247","Goondiwindi, Herbert Street",-28.543125,150.305836,2
+"248","Gordon",-33.752413576,151.161852658,26
+"249","Gosford, Wingello Creek",-33.407629945,151.369460084,12
+"250","Grafton, Susan Island",-29.682027253,152.914004798,19
+"251","Great Keppel Island",-23.182423,150.936492,13
+"252","Grenfell",-33.8798,148.1642,7
+"253","Gresford",-32.39482,151.49662,24
+"254","Gympie Township, Widgee Crossing",-26.1822,152.6384,82
+"255","Hamilton Island",-20.3449,148.95179,24
+"256","Hampton, Wockner Rd",-27.346726,152.055752,3
+"257","Hawks Nest",-32.666684343,152.174343449,5
+"258","Hayman Island",-20.0578,148.884,6
+"259","Helensvale, Lillypilly Court",-27.894778,153.318344,23
+"260","Helensvale, Mildura Drive",-27.9012,153.3343,76
+"261","Helidon, Gunn Street",-27.548306,152.122694,20
+"262","Hemmant, Lytton Road",-27.444,153.1136,73
+"263","Herston, Enoggera Creek",-27.442402,153.022578,47
+"264","Hervey Bay, Botanic Gardens",-25.288845,152.892866,79
+"265","Hervey Bay, Gatakers bay",-25.2456,152.8128,1
+"266","Hervey Bay, Tooan Tooan",-25.2818,152.8472,86
+"267","Hideaway Bay",-20.082556,148.486855,1
+"268","Highfields, Jackson Close",-27.460528,151.928278,22
+"269","Highvale",-27.3667,152.8318,1
+"270","Hillview",-28.219245,153.011477,3
+"271","Horton, Station Road",-25.226732,152.307816,69
+"272","Iluka",-29.399704946,153.34692167,19
+"273","Iluka, Bolorobo Island",-29.388954538,153.342368017,11
+"274","Indooroopilly Island",-27.5157,152.9886,68
+"275","Ingalba State Forest",-30.796288924,152.852716606,5
+"276","Ingham Memorial Gardens",-18.650985,146.159302,4
+"277","Inglewood, Frey Street",-28.41600814,151.0736175,19
+"278","Innes Park, Logan Road",-24.86359,152.47807,1
+"279","Inverell",-29.784,151.127,8
+"280","Ipswich Nature Centre, Queens Park, Goleby Ave",-27.619142,152.767861,21
+"281","Isis Golf Club",-25.229605,152.3017527,5
+"282","Jacobs Well, Kumgum Street",-27.78528,153.365434,23
+"283","Jamberoo",-34.629112365,150.80303043,2
+"284","Jiggi",-28.6901,153.1888,16
+"285","Jilliby",-33.248680472,151.368791077,10
+"286","Jubilee Pocket",-20.27811,148.72975,1
+"287","Kabra",-23.471698,150.396872,28
+"288","Kandanga, Hyne Estate Rd",-26.4048,152.7044,81
+"289","Kangaroo Valley",-34.7357,150.5306,7
+"290","Karana Downs, Kanangra Close",-27.540263,152.823505,4
+"291","Kareela",-34.023251,151.085457,24
+"292","Kareena Park",-34.0424,151.1125,5
+"293","Kelsey Creek",-20.42157,148.47808,1
+"294","Kempsey cemetry",-31.0893,152.8422,11
+"295","Kempsey, Crescent Head Road",-31.10163084,152.840975027,11
+"296","Kempsey, Deep Creek",-30.990686277,152.70457011,7
+"297","Kempsey, Jocks Crossing",-30.994607662,152.72751756,7
+"298","Kempsey, Rudder park",-31.0839,152.8429,23
+"299","Kendall - Logans crossing",-31.6125,152.7033,10
+"300","Kendall, Bakers Creek",-31.6138,152.6854,7
+"301","Keppel Sands",-23.33265,150.7916,3
+"302","Kiama, Boniara st",-34.6847,150.8527,7
+"303","Kiama, Spring Creek",-34.6612,150.8463,8
+"304","Kilcoy, Kilcoy Creek (Anzac Park)",-26.941497,152.568748,27
+"305","Killarney, Killarney State School",-28.338787,152.301742,14
+"306","Kingaroy, Mt. Wooloorin Reserve",-26.52754,151.81249,17
+"307","Kingsciffe library",-28.2593,153.5719,12
+"308","Kinmond Creek, Cootharaba Road",-26.28855,152.92754,22
+"309","Kioloa",-35.526577425,150.301413549,23
+"310","Kiwarrak",-32.002367568,152.43447076,17
+"311","Kolan River, Avondale",-24.7218,152.1724,7
+"312","Kooralbyn (Routley Drive)",-28.0834,152.834,13
+"313","Kurnell",-34.025900748,151.199738131,23
+"314","Kyogle",-28.613538,153.003259,23
+"315","Kyogle (McDougall st)",-28.617844085,152.996159617,6
+"316","Labrador, Government Rd",-27.94808,153.397261,27
+"317","Labrador, Norm Rix Park",-27.942313,153.397876,3
+"318","Laidley (Deborah Rd)",-27.640244,152.385703,3
+"319","Laidley (Whites Road)",-27.63813,152.41023,13
+"320","Laidley, Laidley Plainlands Road",-27.620558,152.394769,43
+"321","Lamb Island",-27.6274,153.3753,36
+"322","Landsborough, Vidler Crt",-26.799717,152.965367,70
+"323","Lansdowne State Forest (Pipeclay Creek)",-31.755685,152.595828,20
+"324","Larnook, (Cawongla Rd)",-28.695985769,153.130569713,7
+"325","Lawrence",-29.483238016,153.079464312,3
+"326","Lindeman Island",-20.45293,149.03743,11
+"327","Lindum, Kianawah Rd.",-27.445011,153.143728,2
+"328","Linville, John Street",-26.841322,152.278415,10
+"329","Lismore, Rotary Park",-28.810186846,153.295707806,24
+"330","Logan Central, Bardon and Wembley Rds",-27.645151,153.097612,20
+"331","Loganholme, Alexander Clark Park",-27.70147,153.18762,66
+"332","Loganholme, Timor Avenue",-27.667,153.1773,42
+"333","Long Island",-20.33371,148.85129,5
+"334","Lota, Wynnum Hospital",-27.464109,153.183671,48
+"335","Lowood (Camp 2) Water Tower",-27.4657,152.5903,36
+"336","Lowood Bend (Camp 1) Brisbane River",-27.4688,152.5886,93
+"337","Lynches Creek",-28.4449,152.9991,17
+"338","Maaroom, Esplanade",-25.613321,152.874238,44
+"339","MacGregor, Freesia Street",-27.570659,153.084987,60
+"340","Mackay, Cemetery",-21.143316,149.172132,1
+"341","Mackay, Showgrounds",-21.143316,149.172132,5
+"342","Macksville",-30.7264,152.9263,24
+"343","Maclean",-29.4664,153.204,26
+"344","Maclean, Ulgundahi Island",-29.435237292,153.20886973,5
+"345","Macleay Island, Balaka Street",-27.594693,153.357358,5
+"346","Macleay Island, Gordon Road",-27.621607,153.367639,1
+"347","Macleay Island, Tim O'Shea Wetland",-27.6114,153.3535,38
+"348","Macquarie Fields",-33.990069,150.879444,24
+"349","Magnetic Island, Arcadia",-19.149399,146.86546,1
+"350","Maitland - Hannan st",-32.7269,151.5525,19
+"351","Maitland, Lorn",-32.72933611,151.5580417,26
+"352","Maleny, Mary Cairncross Scenic Reserve",-26.777548,152.881103,11
+"353","Mallanganee",-28.898003332,152.749088932,7
+"354","Mammy Johnson, Stroud Rd",-32.344384689,151.939095948,5
+"355","Marlborough, Perkins Creek",-22.81259,149.88738,4
+"356","Maroochydore, Eudlo Creek CP",-26.64924,153.04745,17
+"357","Maroochydore, Stella Maris CS",-26.65077,153.07115,66
+"358","Martinsville",-33.017755576,151.411307645,8
+"359","Maryborough, Albion Rd Wetlands (Island Plantation",-25.5097,152.7185,68
+"360","Maryborough, Kent Street",-25.5436,152.7131,60
+"361","Maryborough, Little Tinana Ck",-25.556,152.7137,86
+"362","Maryborough, Saltwater Creek",-25.4734,152.7224,80
+"363","Maryborough, Tinana Island,",-25.56086,152.71216,72
+"364","Matcham",-33.401804528,151.440328859,8
+"365","Medowie",-32.751741708,151.890945191,11
+"366","Menai",-34.011413155,150.999264091,3
+"367","Menangle",-34.152402197,150.74915014,1
+"368","Miami, Chairlift Avenue",-28.060371,153.439361,14
+"369","Miami, Pizzey Drive",-28.068058,153.423814,40
+"370","Middlemount",-22.8124,148.7016,26
+"371","Millfield",-32.868031923,151.271853581,1
+"372","Miriam Vale",-24.3262,151.5547,10
+"373","Miriam Vale, Bates Street",-24.326541,151.562317,1
+"374","Mittagong",-34.448,150.4598,2
+"375","Moffat Beach, Tooway Creek",-26.788058,153.136706,73
+"376","Molong",-33.0899,148.8693,5
+"377","Monkerai",-32.261805254,151.816790977,25
+"378","Monto",-24.75324,151.02311,10
+"379","Mooball",-28.4482,153.5008,1
+"380","Mooloolaba, Goonawarra Drive",-26.682433,153.107033,67
+"381","Moonee Creek",-30.212366077,153.152870522,4
+"382","Moore Park Beach",-24.71827,152.280459,17
+"383","Moorland",-31.774048062,152.65153088,5
+"384","Moranbah",-22.008,148.0608,22
+"385","Moranbah, Forrest Drive",-21.99945,148.055631,8
+"386","Morisset (Mandalong)",-33.116011542,151.425884405,23
+"387","Moruya Heads",-35.916066065,150.146541028,21
+"388","Moruya, Beashels Trig",-35.989969802,150.062578055,7
+"389","Mossvale",-34.5497,150.3695,2
+"390","Mount Berryman, Scanlans Scrub",-27.71924,152.32497,9
+"391","Mount Elliot",-27.827,152.8185,6
+"392","Mount Kembla",-34.445851921,150.792148875,9
+"393","Mount Ommaney - Westlake Drive",-27.5444,152.9255,77
+"394","Mount Perry, William Street",-25.174951,151.643061,1
+"395","Mount Pikapene",-29.032109289,152.677238802,3
+"396","Mount Richardson",-32.407126152,151.660973251,24
+"397","Mount Warning",-28.41061505,153.230781656,3
+"398","Mount Warren Park - Yvonne Cr.",-27.736966,153.198338,77
+"399","Moura",-24.573906,149.968068,3
+"400","Mt Russell",-29.6805,150.9352,4
+"401","Mudgee",-32.5957,149.601751,5
+"402","Mudgeeraba, Burke Crescent",-28.085637,153.345868,51
+"403","Mudgeeraba, Hardys Road/Appaloosa Crt",-28.1048,153.363,55
+"404","Mudgeeraba, Tallai/Mudgeeraba Road",-28.069601,153.354624,24
+"405","Mulgowie",-27.72091,152.37526,7
+"406","Mullimbimby",-28.5508,153.4943,22
+"407","Mundubbera Township, Billabong Motor Inn",-25.584272,151.301917,10
+"408","Mundubbera Township, Jones' Weir",-25.596629,151.300297,10
+"409","Murgon, Douglas Street",-26.2395,151.9389,2
+"410","Murphys Creek",-27.455941,152.049271,5
+"411","Murrurindi",-31.7639,150.8321,2
+"412","Murwillumbah, Brays Park",-28.3392,153.37,26
+"413","Murwillumbah, Dallis Park 1",-28.355705256,153.38647047,4
+"414","Murwillumbah, Frangela Drv",-28.329,153.3782,16
+"415","Muswellbrook",-32.2652,150.885,12
+"416","Muswellbrook (Muscle Creek)",-32.297,151.027,1
+"417","Myocum",-28.593531608,153.529430564,2
+"418","Myrtle Creek",-20.376,148.594,5
+"419","Nambour, Tallangatta St.",-26.61125,152.973683,26
+"420","Nambucca - Gordon park",-30.6429,153.004,24
+"421","Narooma",-36.231642594,150.092282404,3
+"422","Narromine",-32.2151,148.2368,6
+"423","Nebo, Nebo Creek",-21.688163,148.686713,6
+"424","Nelligen Creek",-35.633649822,150.022884485,2
+"425","Nerang, Bushmead Street",-27.988525,153.32264,40
+"426","Nerang, Gilston Road",-28.002991,153.324217,50
+"427","Nerang, Riverpark Dr.",-28.003893,153.315711,19
+"428","Nerang, Winchester Dr.",-28.0025,153.3138,12
+"429","Newcastle, Blackbutt Reserve",-32.93519703,151.690716245,22
+"430","Nightcap National Park, Terania Creek",-28.579910713,153.306953844,8
+"431","Nimbin (Cecil Street)",-28.602,153.2305,9
+"432","Nimbin (Cullen Rd)",-28.5974,153.1919,6
+"433","Nimbin (Gungas Rd)",-28.5816,153.2425,22
+"434","Nimbin, Neem Rd",-28.5992,153.2344,9
+"435","Nobbys Creek, Brooks Road",-28.29268936,153.353292446,1
+"436","Noosaville, Goat Island CP",-26.394358,153.046025,14
+"437","Noosaville, Wallace Drive",-26.400669,153.049086,35
+"438","North Bundaberg, Botanic Gardens, Young St",-24.851596,152.337234,33
+"439","North Bundaberg, Hanbury Street",-24.860617,152.331898,8
+"440","North Bundaberg, Perry Street",-24.860887,152.343761,5
+"441","North Bundaberg, Queen St",-24.844087,152.347531,1
+"442","North Lismore, Currie Park",-28.796732429,153.285679146,7
+"443","North Red Head",-32.053565317,152.53406204,18
+"444","North Stradbroke Island, Dunwich (Mitchell Cres.)",-27.4965,153.4064,62
+"445","North Stradbroke Island, Point Lookout",-27.427014,153.527627,36
+"446","North Urunga (Kalang River)",-30.492,153.011,15
+"447","North Woodburn",-29.0656,153.3539,7
+"448","Northgate reserve",-27.398694,153.072987,44
+"449","Northgate, Carter Street",-27.388437,153.07509,5
+"450","Nowra, Brinawarr st",-34.8584,150.6003,8
+"451","Nowra, Bugong Creek",-34.791998252,150.471496121,18
+"452","Nowra, Comerong Island",-34.893436276,150.745944315,13
+"453","Nymboida",-29.9374,152.7254,3
+"454","Nymboida State Forest, Doughboy Road",-29.778600451,152.628649277,2
+"455","Oakey - Campbell St",-27.43556,151.720408,37
+"456","Oatley",-33.982361,151.077106,26
+"457","Ocean Shores",-28.529843083,153.542879288,18
+"458","Ocean Shores, Marshalls Creek",-28.509,153.5478,16
+"459","Orange, Cook Park",-33.283,149.09,19
+"460","Orange, Dairy Creek",-33.311,149.133,18
+"461","Orange, Ploughmans Lane",-33.2924,149.0674,14
+"462","Ormeau, Carob Court",-27.77576,153.242894,27
+"463","Pacific Palms Recreation",-32.3323,152.5294,1
+"464","Palm Beach, M1",-28.120363,153.460078,24
+"465","Palm Creek",-20.3805,148.63652,5
+"466","Palmview, Glenview Road",-26.757688,153.045879,5
+"467","Palmwoods, Dunning Street",-26.690983,152.953975,33
+"468","Palmwoods, Jubilee Drive",-26.6825,152.9618,19
+"469","Pambula",-36.926863538,149.842620513,24
+"470","Pambula South",-36.957101762,149.866037117,2
+"471","Parkes, Kelly rd",-33.1493,148.1972,7
+"472","Parkinson, Avondale Crescent",-27.63034,153.033682,86
+"473","Parklands, Nambour Bypass (SC)",-26.60731,152.97258,15
+"474","Parklands, Tallangatta Street",-26.610918,152.975348,13
+"475","Paronella Park, Mena Creek",-17.645787,145.9564165,9
+"476","Parramatta Park 1",-33.81298429,150.99720372,26
+"477","Passchendaele SF",-28.554,151.813,8
+"478","Paterson",-32.590645154,151.562008263,23
+"479","Peachester",-26.8232,152.8873,17
+"480","Penrith",-33.735586074,150.67009286,5
+"481","Peter Finn",-28.61901907,152.870672927,3
+"482","Picton",-34.1776,150.6117,14
+"483","Pimpama, Mirambeena Drive",-27.800115,153.273429,6
+"484","Pine Creek",-30.407087467,152.99717861,5
+"485","Pine Mountain (Camerons Scrub/Sapling Pocket)",-27.49392,152.72223,1
+"486","Pittsworth, 1 Thomas Street",-27.712528,151.634861,9
+"487","Pittsworth, Int. Campbell St & Perham St",-27.708465,151.638824,4
+"488","Port Douglas Road, Port Douglas",-16.52497,145.46468,1
+"489","Port Douglas Sports",-16.488903,145.463055,1
+"490","Port Macquarie, Kooloonbung Creek",-31.436378734,152.90718167,26
+"491","Portland",-33.358639,149.9831,7
+"492","Pottsville",-28.385716718,153.56541508,25
+"493","Proserpine River",-20.45575,148.69517,4
+"494","Proserpine, Faust Street",-20.401,148.5753,7
+"495","Queens Lake",-31.632100818,152.793593889,6
+"496","Rainbow Beach, Inskip Peninsula",-25.8172,153.07,10
+"497","Rainbow Beach, Seary's Creek",-25.97631,153.06869,3
+"498","Raleigh (McGearys Island)",-30.459,153.003,20
+"499","Ramornie State Forest",-29.796692501,152.644103197,3
+"500","Rathdowney, John Street",-28.2149,152.8665,7
+"501","Raymond Terrace",-32.759535,151.752271,23
+"502","Red Hill",-31.288605535,152.77068779,16
+"503","Redbank (Pan Pacific Peace Garden)",-27.599624,152.880163,40
+"504","Redbank Plains, Phillip Street",-27.65083,152.856686,10
+"505","Redcliffe Botanic Gardens",-27.23145,153.098752,87
+"506","Redcliffevale",-21.23933,148.0915,1
+"507","Redland Bay, Junee Street Wetlands",-27.642088,153.308533,70
+"508","Redland Bay, Orchard Beach Wetlands (The Boulevard",-27.624741,153.310132,74
+"509","Redland Bay, Pitt St",-27.616585,153.303781,77
+"510","Redland Bay, Weinam Creek Wetlands (Moores Rd)",-27.620871,153.306778,75
+"511","Regents Park - Bennets Drive",-27.670041,153.048139,66
+"512","Regents Park, Emerald Drive",-27.680013,153.036987,45
+"513","Richmond Hill, Bangalow Rd, Boatharbour Nature Reserve",-28.779990278,153.33242335,7
+"514","Ringtail Creek, Tronson Road",-26.3279,152.9759,23
+"515","Riverhills, Zambesi Street",-27.557355,152.9076166,1
+"516","Robina, Kiralee Dr",-28.062892,153.411992,42
+"517","Robina, Palmer Gold Coast Golf Course",-28.073239,153.400072,10
+"518","Rockhampton, Waste and Recycling",-23.37659,150.535874,1
+"519","Roma, Bungil Creek",-26.560163,148.802898,8
+"520","Ropes Creek",-33.778232,150.805889,18
+"521","Runaway Bay, Godlonton Reserve",-27.922301,153.398041,24
+"522","Russell Island",-27.7037,153.3888,24
+"523","Russell Island, Douglas Street",-27.647805,153.378891,10
+"524","Samford, Days Road",-27.3761,152.8405,88
+"525","Sandgate, Curlew Park",-27.3231,153.0687,94
+"526","Sandon",-29.665337978,153.317652447,8
+"527","Sandstone Point, Bestman Rd",-27.0804,153.1279,35
+"528","Sandy Beach",-30.151243461,153.19450961,3
+"529","Scarborough, Sunnyside Rd",-27.202885,153.102829,85
+"530","Schnapper Island",-32.703970347,152.002489542,7
+"531","Scone",-32.052201,150.859396,2
+"532","Sea Acres",-31.462728244,152.93042745,7
+"533","Seaforth",-20.9056,148.9736,1
+"534","Shellharbour, Blackbutt Reserve",-34.5712,150.8506,24
+"535","Singleton (Lamb Valley)",-32.5347,151.4285,1
+"536","Singleton, Burdekin Park",-32.563895971,151.175904848,19
+"537","Singleton, Cranky Corner",-32.552459327,151.411731661,5
+"538","Slacks Creek, Meakin Park",-27.6402,153.1373,61
+"539","Smiths Lake",-32.384924713,152.502713804,17
+"540","South Molle Island",-20.26421,148.83704,2
+"541","Southport Golf Club",-27.9951,153.4134,63
+"542","Southport, Akes Avenue,",-27.9797,153.4136,92
+"543","Southport, Loders Creek",-27.9581,153.4033,74
+"544","Springbrook N.P, Natural Bridge",-28.217365,153.276701,4
+"545","Springwood, Parfrey Road",-27.609978,153.136293,37
+"546","St George",-28.025529,148.589506,4
+"547","Stafford, Sparkes Hill, Clover Street",-27.412,152.9992,74
+"548","Stanthorpe (Gleason Park - Quart Pot Ck)",-28.651918,151.931087,6
+"549","Stockrington, Black Hill",-32.850018534,151.588052366,7
+"550","Strathpine, Pine Rivers Park, Gympie Road",-27.311131,152.994339,26
+"551","Stroud",-32.405805733,151.959633996,5
+"552","Suffolk Park",-28.6876,153.603,21
+"553","Sunnybank (Les Atkinson Park)",-27.582594,153.052372,53
+"554","Sunshine Acres, Black Swamp Creek",-25.3749,152.7692,62
+"555","Surat",-27.150293,149.069653,3
+"556","Surfers Paradise, Girung Island",-28.009264,153.419293,25
+"557","Surfers Paradise, Macintosh Island",-27.984243,153.427208,29
+"558","Surfers Paradise, Remembrance Drive",-28.007941,153.427063,15
+"559","Sydney Botanic Gardens",-33.864519069,151.216537336,16
+"560","Tallebudgera Creek",-28.1144,153.4448,34
+"561","Tamboi",-32.5537,152.2949,1
+"562","Tamborine NP (Joalah Sec)",-27.9237,153.1935,44
+"563","Tamworth, Gipps Street",-31.095317361,150.928881852,8
+"564","Tamworth, King George Avenue",-31.1016,150.94,25
+"565","Tarcutta",-35.2792,147.7316,2
+"566","Taree, Coocumbac Island",-31.91931265,152.456843292,21
+"567","Telegraph Point, Maria River",-31.3131,152.8331,5
+"568","Tenambit",-32.7402,151.6047,8
+"569","The Branch",-32.511329852,152.053593741,3
+"570","The Gap, Riaweena St",-27.444316,152.941897,32
+"571","The Gap, Waterworks Road",-27.447086,152.95105,15
+"572","The Palmetum",-19.311081,146.764228,2
+"573","The Palms NP, Cooyar",-26.93452,151.87859,25
+"574","Theodore",-24.950733,150.076493,2
+"575","Thora (Hobarts Bridge)",-30.432,152.722,22
+"576","Thornlands, Lotus Court",-27.559103,153.26793,3
+"577","Tin Can Bay, Dinnies Ck",-25.840663,153.014231,4
+"578","Tin Can Bay, Snapper Point",-25.9175,152.9926,53
+"579","Tinana, Franklins Close",-25.5404,152.6789,66
+"580","Tocal",-32.6179,151.5926,25
+"581","Tolga Scrub",-17.23752,145.47961,1
+"582","Tomago, Fullerton Cove",-32.848769842,151.768542731,4
+"583","Tomerong",-35.055528865,150.562471756,1
+"584","Toogoom, Shellcot Street",-25.255865,152.69216,29
+"585","Toormina",-30.349375044,153.09196728,21
+"586","Toowong Perrin Park, Josling St",-27.490983,152.992867,33
+"587","Toowoomba (Japanese Gardens/University)",-27.60086506,151.9314968,17
+"588","Toowoomba (Redwood Park)",-27.56332453,151.9972237,7
+"589","Toowoomba, Spring Street",-27.601012,151.942978,43
+"590","Tregeagle, Mollys Grass Rd",-28.859701515,153.36537984,3
+"591","Tuckean",-28.986944318,153.414786107,3
+"592","Tumbulgum, Stotts Island",-28.270898997,153.495577336,2
+"593","Tumut River Island",-35.3008,148.2302,19
+"594","Turkey Beach",-24.086,151.643,2
+"595","Tuross, Foam st",-36.0454,150.1274,4
+"596","Tweed Heads, Big Island",-28.207001246,153.510468076,24
+"597","Tweed Heads, Caddy's Island",-28.189760634,153.516679446,6
+"598","Tweed Heads, Davies Island",-28.196573328,153.51261779,6
+"599","Tweed Heads, Oxley Cove",-28.230989956,153.545843951,18
+"600","Tweed Heads, The Anchorage",-28.1888,153.5343,10
+"601","Tyalgum",-28.3601,153.207,20
+"602","Tyalgum Creek",-28.3536,153.205,11
+"603","Uki",-28.41342638,153.333793185,20
+"604","Umina Beach",-33.5344,151.3058,6
+"605","Underwood, Nevilles St",-27.617231,153.114545,1
+"606","Undulluh, Homestead Drive (Flagstone)",-27.814703,152.963108,17
+"607","Upper Coomera, Heathwood Drive",-27.870743,153.311378,26
+"608","Upper Rocky Creek, Murphys Creek",-27.46163,152.05932,7
+"609","Urunga",-30.493843247,153.017543314,22
+"610","Urunga (Yellow Rock)",-30.486,153.018,18
+"611","Victoria Point, Marianne St/Egret Drive.",-27.58006,153.30442,52
+"612","Vines Creek",-21.1137,149.1816,17
+"613","Wagga Wagga",-35.1175,147.38944,11
+"614","Walkerston",-21.1606,149.0621,14
+"615","Wallaga Lake",-36.3686,150.0721,1
+"616","Wallaroo National Park, Italia Road",-32.660835234,151.805217013,10
+"617","Walloon, Poplar Street Reserve",-27.6033,152.6728,18
+"618","Wandandian, Bewong Creek",-35.070053061,150.526519018,16
+"619","Wardell, Goat Island",-28.989597057,153.457574892,1
+"620","Wardell, Meerschaum Rd",-28.933760505,153.433083603,3
+"621","Warrego",-26.3597,146.2771,1
+"622","Warriewood",-33.694814,151.295003,26
+"623","Warwick - Dragon Street",-28.208062,152.029633,10
+"624","Warwick, Grafton Street",-28.211456,152.026038,22
+"625","Warwick, Rockland Rd",-28.267694,151.857025,4
+"626","Watalgan SF, Arthur's Ck Rd",-24.69421,151.99485,2
+"627","Watanobbi",-33.26869,151.416128,20
+"628","Wattamolla",-34.711520602,150.646098798,2
+"629","Wellington (Bell River)",-32.55,148.936,23
+"630","Wellington Island, Macquarie River",-32.542952192,148.92992592,18
+"631","Wellington Point, Crossley Drive",-27.495215,153.235459,35
+"632","Wellington Point, Oconnell Parade",-27.483737,153.239401,2
+"633","West Dapto",-34.4711,150.7971,13
+"634","Westwood, Capricornia Highway",-23.62135,150.15571,24
+"635","Wetherill Pk",-33.835297,150.914861,21
+"636","Weyba Creek",-26.407034,153.076583,38
+"637","Whiporie",-29.281759041,153.018526559,2
+"638","Whiporie (2002)",-29.262554402,153.047806746,2
+"639","Willowbank",-27.657158,152.689539,31
+"640","Windsor, Enoggera Creek",-27.437646,153.037633,28
+"641","Wingham Brush",-31.869635527,152.381091865,25
+"642","Withcott",-27.52572739,151.9713699,7
+"643","Wolli Creek",-33.930418,151.135204,26
+"644","Wollongong, Figtree",-34.43116,150.866994,26
+"645","Woocoo NP, Aramara",-25.63721563,152.3299461,84
+"646","Woodburn",-29.097927452,153.35062198,12
+"647","Woodend",-27.6031,152.7485,98
+"648","Woodford",-26.95031,152.7763,51
+"649","Woolgoolga Lake",-30.10387886,153.197644674,24
+"650","Woolgoolga, Bark Hut Road",-30.092527066,153.118690416,7
+"651","Wooli River",-29.859793161,153.21376928,3
+"652","Wooli Town",-29.858431165,153.263023456,4
+"653","Woolomin",-31.305502664,151.148329337,7
+"654","Woombah, Esk River",-29.355931227,153.319056645,8
+"655","Woonona",-34.334089007,150.897353535,6
+"656","Wootton",-32.295770979,152.382912747,7
+"657","Worongary, Worongary Road",-28.0619,153.3432,39
+"658","Wowan",-23.910522,150.192726,9
+"659","Woywoy, Everglades",-33.5014,151.3141,4
+"660","Wynnum Creek",-27.437798,153.172534,39
+"661","Wynnum North, Meilandt Street",-27.433756,153.156975,35
+"662","Yaegl Nature Reserve",-29.452943931,153.22572904,3
+"663","Yamanto",-27.651449,152.755601,61
+"664","Yamba (Fishers Lane Island)",-29.3683,153.2725,15
+"665","Yamba (Warregah Island)",-29.3663,153.2455,17
+"666","Yamba (Woolbin Island)",-29.3664,153.27,12
+"667","Yamba Shores",-29.4235,153.3326,21
+"668","Yamba, Sleeper Island",-29.410562158,153.325549215,7
+"669","Yamba, Thorny Island",-29.418579599,153.313008553,7
+"670","Yamba, Whyna Island",-29.428290135,153.313296064,17
+"671","Yarramundi",-33.621224049,150.692431057,20
+"672","Yarrowyck",-30.465036817,151.324038812,6
+"673","Yass",-34.8404,148.9094,1
+"674","Yatteyattah",-35.256751572,150.419660059,22
+"675","Yeppoon, Ross Creek",-23.135065,150.746748,14
+"676","Yetman",-28.9013,150.78,1
+"677","Young",-34.31917,148.30015,4
+"678","Bacchus Marsh, Long Forest",-37.64383,144.49587,1
+"679","Bairnsdale",-37.82021,147.62255,1
+"680","Bendigo, Rosalind Park",-36.75669,144.27915,1
+"681","Buchan, Buchan River",-37.4949,148.1716,1
+"682","Cann River",-37.56433,149.15086,1
+"683","Croajingolong National Park, Dowell Creek",-37.46779,149.80163,1
+"684","Doveton",-37.97778,145.23583,1
+"685","Geelong, Eastern Park",-38.15004,144.37925,1
+"686","HMAS Cerberus",-38.36723,145.19111,1
+"687","Kalimna, Seaview Parade",-37.87738,147.97744,1
+"688","Karbethong",-37.54089,149.74377,1
+"689","Kyabram Fauna Park",-36.32472,145.04938,1
+"690","Maffra, Tinamba Rd",-37.96519,146.964,1
+"691","Melbourne Botanic Gardens",-37.83092,144.98021,1
+"692","Murrungowar, Palms Track",-37.74664,148.6458,1
+"693","Murrungowar, Swans Track",-37.73205,148.68085,1
+"694","Nathalia",-36.10602,145.20315,1
+"695","Numurkah",-36.09681,145.4402,1
+"696","Orbost, Newmerella",-37.733,148.40615,1
+"697","Sale",-38.1122,147.07088,1
+"698","Tatura",-36.4309,145.229,1
+"699","Traralgon, Victory Park",-38.19547,146.54434,1
+"700","Upper Maffra West",-37.90706,146.83407,1
+"701","Warrnambool",-38.3739,142.48493,1
+"702","Werribee Park",-37.93107,144.66996,1
+"703","Wodonga",-36.10691,146.90521,1
+"704","Woodside, Bruthen Cresent",-38.5248,146.8721,1
+"705","Yarra Bend",-37.79406,145.017,1
