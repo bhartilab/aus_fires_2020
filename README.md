@@ -23,8 +23,9 @@ Data for this manuscript come from open source data:
       https://www.data.qld.gov.au/dataset/flying-fox-monitoring-program
       downloaded on 10 December 2019
       
-6. Flying Fox habitat spatial data
-      downloaded on 
+6. Flying Fox habitat spatial data (Edition 1, last revised 08 April 2011):
+      https://datasets.seed.nsw.gov.au/dataset/grey-headed-flying-fox-foraging-habitat2f40a  
+      
 
 The above data was processed and visualized using a combination of ArcGIS (fire severity and NVIS was analyzed in version 2.6, all other data was analyzed in  version 2.5) and R version 3.7. All required input data are provided in the data folder. R code to process spatial products and analyze data are in the following scripts: 
 
