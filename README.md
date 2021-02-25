@@ -24,7 +24,7 @@ Data for this manuscript come from open source data:
 6. Flying Fox habitat spatial data
       downloaded on 
 
-The above data was processed and visualized using a combination of ArcGIS (fire severity and NVIS was analyzed in version 2.6, all other data was analyzed in  version 2.5) and R version 3.7. R code to process spatial products and analyze data are in the following scripts:
+The above data was processed and visualized using a combination of ArcGIS (fire severity and NVIS was analyzed in version 2.6, all other data was analyzed in  version 2.5) and R version 3.7. All required input data are provided in the data folder. R code to process spatial products and analyze data are in the following scripts: 
 
 1. ghff_2012_2013_fire_response.R: mixed effect models to evaluate factors affecting grey-headed flying fox (GHFF) response to fires
 2. burned_habitat_comparisons.R: GAMs (generalised additive models) to explain variation in burned foraging habitat between previous focal and anomalous fire seasons
