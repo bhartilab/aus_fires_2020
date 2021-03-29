@@ -61,7 +61,7 @@ ggplot(long_roosts_loc, aes(x=lat, y=Prop_HabBurn440, color=year_fac))+
   geom_line(aes(x = lat, y = lwr), lty =2) + 
   scale_x_continuous(breaks = xbrks) +
   scale_y_continuous(breaks = ybrks) +
-  scale_color_manual(values=yr_cols, labels = c('typical', 'anomalous'))+
+  scale_color_manual(values=yr_cols, labels = c('previous', 'anomalous'))+
   coord_flip()+
   labs(fill = "Year", y = 'proportion winter habitat burned',
        x= 'latitude', color = 'fire season')+
