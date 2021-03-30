@@ -68,14 +68,6 @@ ggplot(long_roosts_loc, aes(x=lat, y=Prop_HabBurn440, color=year_fac))+
   theme_classic(base_size = 14)+
   theme(legend.position = c(0.85, 0.15)) 
 
-cairo_ps(filename = "panel-i.eps",
-         width = 4, height = 9.14, pointsize = 12,
-         fallback_resolution = 500)
-
-ggsave(filename = "survival-curves.eps",
-       plot = print(p),
-       device = cairo_eps)
-
 ggsave(filename = 'panel_i_png_v2.png',
   plot = last_plot(),
   device = 'png',
