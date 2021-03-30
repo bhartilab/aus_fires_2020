@@ -55,7 +55,7 @@ xbrks = seq(-37,-23, by = 1)
 ybrks = seq(0,0.6, by = 0.1)
 ggplot(long_roosts_loc, aes(x=lat, y=Prop_HabBurn440, color=year_fac))+
   geom_ribbon(aes(ymin=lwr, ymax=upr, color = year_fac), alpha=0.08, lty =0) +
-  geom_point(alpha = 0.4) +
+  geom_point(alpha = 0.4, stroke = 0, size =2) +
   geom_line(aes(x = lat, y = fit, color = year_fac), lwd = 1.5) + 
   geom_line(aes(x = lat, y = upr), lty =2) + 
   geom_line(aes(x = lat, y = lwr), lty =2) + 
@@ -67,6 +67,24 @@ ggplot(long_roosts_loc, aes(x=lat, y=Prop_HabBurn440, color=year_fac))+
        x= 'latitude', color = 'fire season')+
   theme_classic(base_size = 14)+
   theme(legend.position = c(0.85, 0.15)) 
+
+cairo_ps(filename = "panel-i.eps",
+         width = 4, height = 9.14, pointsize = 12,
+         fallback_resolution = 500)
+
+ggsave(filename = "survival-curves.eps",
+       plot = print(p),
+       device = cairo_eps)
+
+ggsave(filename = 'panel_i_png_v2.png',
+  plot = last_plot(),
+  device = 'png',
+  scale = 1,
+  width = 4.00,
+  height = 9.14,
+  dpi = 1000,
+  limitsize = FALSE)
+
 
 ##########################################################
 # Total burned foraging habitat 
